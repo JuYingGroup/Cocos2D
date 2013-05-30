@@ -133,15 +133,6 @@
 		78E3EFD117533BBB00EB9B2B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 78E3EFD017533BBB00EB9B2B /* AppDelegate.m */; };
 		78E3EFD417533BBB00EB9B2B /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 78E3EFD317533BBB00EB9B2B /* HelloWorldLayer.m */; };
 		78E3EFD717533BBB00EB9B2B /* IntroLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 78E3EFD617533BBB00EB9B2B /* IntroLayer.m */; };
-		78E3EFDE17533BEA00EB9B2B /* IceArrow.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFDD17533BEA00EB9B2B /* IceArrow.plist */; };
-		78E3EFE517533C2700EB9B2B /* Bgr_4-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFDF17533C2700EB9B2B /* Bgr_4-1.png */; };
-		78E3EFE617533C2700EB9B2B /* cd.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFE017533C2700EB9B2B /* cd.png */; };
-		78E3EFE717533C2700EB9B2B /* skill1.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFE117533C2700EB9B2B /* skill1.png */; };
-		78E3EFE817533C2700EB9B2B /* skill2.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFE217533C2700EB9B2B /* skill2.png */; };
-		78E3EFE917533C2700EB9B2B /* skill3.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFE317533C2700EB9B2B /* skill3.png */; };
-		78E3EFEA17533C2700EB9B2B /* skill4.png in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFE417533C2700EB9B2B /* skill4.png */; };
-		78E3EFED1753457B00EB9B2B /* ParticleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 78E3EFEC1753457B00EB9B2B /* ParticleManager.m */; };
-		78E3EFEF1753767700EB9B2B /* IceArrow1.plist in Resources */ = {isa = PBXBuildFile; fileRef = 78E3EFEE1753767700EB9B2B /* IceArrow1.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -407,16 +398,6 @@
 		78E3EFD317533BBB00EB9B2B /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
 		78E3EFD517533BBB00EB9B2B /* IntroLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IntroLayer.h; sourceTree = "<group>"; };
 		78E3EFD617533BBB00EB9B2B /* IntroLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IntroLayer.m; sourceTree = "<group>"; };
-		78E3EFDD17533BEA00EB9B2B /* IceArrow.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = IceArrow.plist; sourceTree = "<group>"; };
-		78E3EFDF17533C2700EB9B2B /* Bgr_4-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bgr_4-1.png"; sourceTree = "<group>"; };
-		78E3EFE017533C2700EB9B2B /* cd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cd.png; sourceTree = "<group>"; };
-		78E3EFE117533C2700EB9B2B /* skill1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skill1.png; sourceTree = "<group>"; };
-		78E3EFE217533C2700EB9B2B /* skill2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skill2.png; sourceTree = "<group>"; };
-		78E3EFE317533C2700EB9B2B /* skill3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skill3.png; sourceTree = "<group>"; };
-		78E3EFE417533C2700EB9B2B /* skill4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skill4.png; sourceTree = "<group>"; };
-		78E3EFEB1753457B00EB9B2B /* ParticleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParticleManager.h; sourceTree = "<group>"; };
-		78E3EFEC1753457B00EB9B2B /* ParticleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParticleManager.m; sourceTree = "<group>"; };
-		78E3EFEE1753767700EB9B2B /* IceArrow1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = IceArrow1.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -481,8 +462,6 @@
 				78E3EFD317533BBB00EB9B2B /* HelloWorldLayer.m */,
 				78E3EFD517533BBB00EB9B2B /* IntroLayer.h */,
 				78E3EFD617533BBB00EB9B2B /* IntroLayer.m */,
-				78E3EFEB1753457B00EB9B2B /* ParticleManager.h */,
-				78E3EFEC1753457B00EB9B2B /* ParticleManager.m */,
 				78E3EE5817533BB900EB9B2B /* Resources */,
 				78E3EE7217533BB900EB9B2B /* libs */,
 				78E3EFCB17533BBB00EB9B2B /* Supporting Files */,
@@ -493,14 +472,6 @@
 		78E3EE5817533BB900EB9B2B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				78E3EFEE1753767700EB9B2B /* IceArrow1.plist */,
-				78E3EFDF17533C2700EB9B2B /* Bgr_4-1.png */,
-				78E3EFE017533C2700EB9B2B /* cd.png */,
-				78E3EFE117533C2700EB9B2B /* skill1.png */,
-				78E3EFE217533C2700EB9B2B /* skill2.png */,
-				78E3EFE317533C2700EB9B2B /* skill3.png */,
-				78E3EFE417533C2700EB9B2B /* skill4.png */,
-				78E3EFDD17533BEA00EB9B2B /* IceArrow.plist */,
 				78E3EE5917533BB900EB9B2B /* Default.png */,
 				78E3EE5B17533BB900EB9B2B /* Default-Landscape~ipad.png */,
 				78E3EE5D17533BB900EB9B2B /* fps_images.png */,
@@ -924,14 +895,6 @@
 				78E3EE6E17533BB900EB9B2B /* Icon@2x.png in Resources */,
 				78E3EE7117533BB900EB9B2B /* iTunesArtwork in Resources */,
 				78E3EFAF17533BBB00EB9B2B /* ChangeLog in Resources */,
-				78E3EFDE17533BEA00EB9B2B /* IceArrow.plist in Resources */,
-				78E3EFE517533C2700EB9B2B /* Bgr_4-1.png in Resources */,
-				78E3EFE617533C2700EB9B2B /* cd.png in Resources */,
-				78E3EFE717533C2700EB9B2B /* skill1.png in Resources */,
-				78E3EFE817533C2700EB9B2B /* skill2.png in Resources */,
-				78E3EFE917533C2700EB9B2B /* skill3.png in Resources */,
-				78E3EFEA17533C2700EB9B2B /* skill4.png in Resources */,
-				78E3EFEF1753767700EB9B2B /* IceArrow1.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1046,7 +1009,6 @@
 				78E3EFD117533BBB00EB9B2B /* AppDelegate.m in Sources */,
 				78E3EFD417533BBB00EB9B2B /* HelloWorldLayer.m in Sources */,
 				78E3EFD717533BBB00EB9B2B /* IntroLayer.m in Sources */,
-				78E3EFED1753457B00EB9B2B /* ParticleManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
